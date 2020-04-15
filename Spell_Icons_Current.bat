@@ -1,0 +1,10 @@
+del .\gemicons01.tga
+del .\gemicons02.tga
+del .\gemicons03.tga
+del .\Spells01.tga
+del .\Spells02.tga
+del .\Spells03.tga
+del .\Spells04.tga
+del .\Spells05.tga
+del .\Spells06.tga
+del .\Spells07.tga

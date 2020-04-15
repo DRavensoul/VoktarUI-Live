@@ -1,0 +1,24 @@
+<Label item="AAW_MercAAExpLabel">
+	<Location>
+<!--MODIFY-->	<X>538</X>
+	</Location>
+</Label>
+
+<Label item="AAW_MercAAExpPct">
+	<Location>
+<!--MODIFY-->	<X>552</X>
+	</Location>
+</Label>
+
+<Label item="AAW_MercAAExpPctLabel">
+	<Location>
+<!--MODIFY-->	<X>643</X>
+	</Location>
+</Label>
+
+<Button item="AAW_AutoGrantAAsButton">
+	<Location>
+<!--MODIFY-->		<X>530</X>
+<!--MODIFY-->		<Y>4</Y>
+	</Location>
+</Button>

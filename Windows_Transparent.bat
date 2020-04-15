@@ -1,0 +1,11 @@
+copy .\Alternate_Windows\Transparent\EQUI_AuraWnd.xml .
+copy .\Alternate_Windows\Transparent\EQUI_CastSpellWnd.xml .
+copy .\Alternate_Windows\Transparent\EQUI_ChatContainerWindow.xml .
+copy .\Alternate_Windows\Transparent\EQUI_CombatAbilityWnd.xml .
+copy .\Alternate_Windows\Transparent\EQUI_ExtendedTargetWindow.xml .
+copy .\Alternate_Windows\Transparent\EQUI_GroupWindow.xml .
+copy .\Alternate_Windows\Transparent\EQUI_HotButtonWnd.xml .
+copy .\Alternate_Windows\Transparent\EQUI_PetInfoWindow.xml .
+copy .\Alternate_Windows\Transparent\EQUI_PlayerWindow.xml .
+copy .\Alternate_Windows\Transparent\EQUI_TargetOfTargetWindow.xml .
+copy .\Alternate_Windows\Transparent\EQUI_TargetWindow.xml .

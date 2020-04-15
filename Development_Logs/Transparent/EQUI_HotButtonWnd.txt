@@ -1,0 +1,33 @@
+	<Screen item="HotButtonWnd">
+<!--MODIFY-->	<DrawTemplate>WDT_InnerGray</DrawTemplate>
+	</Screen>
+	<Screen item="HotButtonWnd2">
+<!--MODIFY-->	<DrawTemplate>WDT_InnerGray</DrawTemplate>
+	</Screen>
+	<Screen item="HotButtonWnd3">
+<!--MODIFY-->	<DrawTemplate>WDT_InnerGray</DrawTemplate>
+	</Screen>
+	<Screen item="HotButtonWnd4">
+<!--MODIFY-->	<DrawTemplate>WDT_InnerGray</DrawTemplate>
+	</Screen>
+	<Screen item="HotButtonWnd5">
+<!--MODIFY-->	<DrawTemplate>WDT_InnerGray</DrawTemplate>
+	</Screen>
+	<Screen item="HotButtonWnd6">
+<!--MODIFY-->	<DrawTemplate>WDT_InnerGray</DrawTemplate>
+	</Screen>
+	<Screen item="HotButtonWnd7">
+<!--MODIFY-->	<DrawTemplate>WDT_InnerGray</DrawTemplate>
+	</Screen>
+	<Screen item="HotButtonWnd8">
+<!--MODIFY-->	<DrawTemplate>WDT_InnerGray</DrawTemplate>
+	</Screen>
+	<Screen item="HotButtonWnd9">
+<!--MODIFY-->	<DrawTemplate>WDT_InnerGray</DrawTemplate>
+	</Screen>
+	<Screen item="HotButtonWnd10">
+<!--MODIFY-->	<DrawTemplate>WDT_InnerGray</DrawTemplate>
+	</Screen>
+	<Screen item="HotButtonWnd11">
+<!--MODIFY-->	<DrawTemplate>WDT_InnerGray</DrawTemplate>
+	</Screen>

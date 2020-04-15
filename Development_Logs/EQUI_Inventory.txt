@@ -1,0 +1,17 @@
+<Button item="IW_UpgradeCharacter">
+	<ScreenID>IW_UpgradeCharacter</ScreenID>
+<!--DELETEBLOCK: START-->
+<!--DELETEBLOCK: END-->
+</Button>
+
+<STMLbox item="IW_AltCurr_PointInfo">
+<!--MODIFY-->	<TopAnchorOffset>355</TopAnchorOffset>
+</STMLbox>
+
+<TabBox item="IW_Subwindows">
+<!--MODIFY-->	<LeftAnchorOffset>0</LeftAnchorOffset>
+</TabBox>
+
+<Screen item="InventoryWindow">
+<!--MODIFY-->	<Style_Minimizebox>true</Style_Minimizebox>
+</Screen>

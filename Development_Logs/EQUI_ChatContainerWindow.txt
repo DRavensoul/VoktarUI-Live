@@ -1,0 +1,6 @@
+<Screen item="ChatContainerWindow">
+<!--ADD-->	<MinHSize>116</MinHSize>
+<!--ADD-->	<MinVSize>74</MinVSize>
+<!--MODIFY-->	<Style_Titlebar>false</Style_Titlebar>
+<!--MODIFY-->	<Style_Minimizebox>false</Style_Minimizebox>
+</Screen>
