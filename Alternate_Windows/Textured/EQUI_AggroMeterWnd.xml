@@ -138,7 +138,7 @@
 		<Style_Sizable>true</Style_Sizable>
 		<Style_ClientMovable>true</Style_ClientMovable>
 		<Escapable>false</Escapable>
-<!--MODIFY-->	<DrawTemplate>WDT_InnerGray</DrawTemplate>
+		<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
 		<Pieces>AMW_AggroTargetNameLabel</Pieces>
 		<Pieces>AMW_AggroGauge</Pieces>
 		<Pieces>AMW_AggroGaugeLabel</Pieces>

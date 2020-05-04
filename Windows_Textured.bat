@@ -1,3 +1,4 @@
+copy .\Alternate_Windows\Textured\EQUI_AggroMeterWnd.xml .
 copy .\Alternate_Windows\Textured\EQUI_AuraWnd.xml .
 copy .\Alternate_Windows\Textured\EQUI_CastSpellWnd.xml .
 copy .\Alternate_Windows\Textured\EQUI_ChatContainerWindow.xml .
