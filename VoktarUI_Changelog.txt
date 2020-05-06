@@ -1,7 +1,7 @@
-Version 1.74.000 (2020-04-15) - List of Changes:
+Version 1.74.000 (2020-05-06) - List of Changes:
 
-	. Minor fixes to some windows.
-	. Added some basic 16:9 screen laytouts: 1920x1080 and 2560x1440. I also have putting them on EQInterface.com forums, so please, share yours!
+	. Added mercenary exp and AA info to the compass window.
+	. Minor transparecy fixes to some windows.
 
 Version 1.73.001 (2019-12-18) - List of Changes:
 
