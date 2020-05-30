@@ -325,9 +325,9 @@
 		<AutoStretch>true</AutoStretch>
 		<BottomAnchorToTop>false</BottomAnchorToTop>
 		<RightAnchorToLeft>false</RightAnchorToLeft>
-		<TopAnchorOffset>11</TopAnchorOffset>
-		<LeftAnchorOffset>69</LeftAnchorOffset>
-		<RightAnchorOffset>71</RightAnchorOffset>
+		<TopAnchorOffset>25</TopAnchorOffset>
+		<LeftAnchorOffset>130</LeftAnchorOffset>
+		<RightAnchorOffset>130</RightAnchorOffset>
 		<Pieces>CMPW_Strip1</Pieces>
 		<Pieces>CMPW_Strip2</Pieces>
 		<Pieces>CMPW_Overlay</Pieces>

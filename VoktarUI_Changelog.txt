@@ -1,7 +1,9 @@
-Version 1.74.000 (2020-05-06) - List of Changes:
+Version 1.74.000 (2020-05-31) - List of Changes:
 
-	. Added mercenary exp and AA info to the compass window.
+	. Added mercenary experience bar and merenary AA count info to the compass window.
 	. Minor transparecy fixes to some windows.
+
+	  NOTE: You can hide the compass component and show only the experience bars and AA the count by adjusting the alpha faded level of the window.
 
 Version 1.73.001 (2019-12-18) - List of Changes:
 
